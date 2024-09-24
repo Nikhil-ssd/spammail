@@ -41,7 +41,7 @@ Step 10 : Wait for the file to complete executing the program and then check the
 
 After confirming the proper functioning of the project, I have uploaded the project folder with all the necessary files and folders to a newly created repository named (spammail) on my GitHub profile. 
 
-Here is the link to the project repository : https://github.com/Nikhil-ssd/mushroomclassification.git
+Here is the link to the project repository : https://github.com/Nikhil-ssd/spammail.git
 
 ##### Deployment on Cloud Platforms
 
